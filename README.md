@@ -96,21 +96,21 @@ Random Forest	0.87
 (Results may vary depending on dataset and tuning)
 
 ******📂 Project Structure**
-Insurance-Cost-Prediction/
-│
-├── data/
-│   └── insurance.csv
-│
-├── notebooks/
-│   └── EDA_Model.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│
-├── requirements.txt
-└── README.md
+Insurance-Cost-Prediction/<br>
+│<br>
+├── data/<br>
+│   └── insurance.csv<br>
+│<br>
+├── notebooks/<br>
+│   └── EDA_Model.ipynb<br>
+│<br>
+├── src/<br>
+│   ├── preprocessing.py<br>
+│   ├── train.py<br>
+│   ├── evaluate.py<br>
+│<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 **💡 Key Insights**
 
