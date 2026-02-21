@@ -49,7 +49,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-**🔎 Project Workflow**
+**🔎 Project Workflow**<br>
 1️⃣ Data Preprocessing
 
 Handling categorical variables (One-Hot Encoding)
@@ -120,7 +120,7 @@ Smoking significantly increases insurance charges.
 BMI positively correlates with medical costs.
 
 Random Forest outperforms linear models in capturing non-linear relationships.
-**
+**<br>
 🔮 Future Improvements**
 
 Hyperparameter tuning (GridSearchCV)
