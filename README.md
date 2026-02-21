@@ -34,6 +34,7 @@ children	Number of dependents
 smoker	Smoking status
 region	Residential region
 charges	Medical insurance cost (Target variable)
+
 **🚀 Tech Stack**
 
 Python
