@@ -1,3 +1,4 @@
+Author -Preeti
 **🏥 Insurance Cost Prediction**
 
 A Machine Learning project that predicts medical insurance charges based on customer demographic and health-related features.
